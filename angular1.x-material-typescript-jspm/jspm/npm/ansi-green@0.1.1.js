@@ -1,0 +1,1 @@
+module.exports = require("npm:ansi-green@0.1.1/index");

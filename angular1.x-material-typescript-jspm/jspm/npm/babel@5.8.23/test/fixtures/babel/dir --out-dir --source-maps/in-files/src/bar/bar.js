@@ -1,0 +1,5 @@
+/* */ 
+"format cjs";
+class Test {
+
+}
