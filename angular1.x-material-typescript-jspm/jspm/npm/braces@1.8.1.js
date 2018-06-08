@@ -1,1 +1,0 @@
-module.exports = require("npm:braces@1.8.1/index");

@@ -1,1 +1,0 @@
-module.exports = require("npm:lazy-cache@0.2.3/index");
